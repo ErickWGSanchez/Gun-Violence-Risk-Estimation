@@ -1,2 +1,2 @@
 # Gun-Violence-Prediction
-A predictive model created by using county mental health demographics, mass shooting, and historic gun violence datasets 
+An early predictive model was created by using county mental health demographics, mass shootings, and historic gun violence datasets to estimate risk scores of potential danger in each county. 
